@@ -1,3 +1,11 @@
-#navbarSupportedContent {
+/* #navbarSupportedContent {
     align-content: flex-end;
+} */
+
+nav a.navbar-brand{
+    background-color: #51AAA5;
+    color: white !important;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
