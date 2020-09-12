@@ -1,20 +1,21 @@
 h1 {
     color: #51AAA5;
     font-weight: bold;
+    font-family: 'Noto Serif', serif;
 }
 
 nav {
     background-color: white !important;
 }
 
-.my-title {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
+/* .my-title {
+    font-family: 'Noto Serif', serif;
+} */
 
 nav a.navbar-brand, button.btn{
     background-color: #51AAA5;
     color: white !important;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Noto Serif', serif;
 }
 
 
