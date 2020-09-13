@@ -1,3 +1,12 @@
+body {
+
+    background-image: url("http://3.bp.blogspot.com/-4GXsglWmQk4/TzAYv7BfUrI/AAAAAAAAVlc/WSMzCKVBmp8/s1600/tumblr_lwyzaafvrd1r85toqo1_500.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
 h1 {
     color: #51AAA5;
     font-weight: bold;
@@ -20,7 +29,7 @@ figure img{
     content: " ";
     display: block;
     clear: both;
-  }
+}
 
 nav a.navbar-brand, button.btn{
     background-color: #51AAA5;
@@ -34,7 +43,7 @@ nav a.navbar-brand {
     font-weight: bold;
 }
 
-main .background-image{
+/* main .background-image{
     z-index: -1;
     position: relative;
     background-image: url("https://storage.needpix.com/rsynced_images/optical-illusion-1301351_1280.jpg");
@@ -48,7 +57,7 @@ main .background-image{
     padding-bottom: 0px;
     margin-bottom: 0px;
 
-}
+} */
 
 form, section {
     background-color: white;
