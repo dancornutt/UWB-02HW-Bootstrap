@@ -1,7 +1,19 @@
+body {
+
+    background-image: url("http://3.bp.blogspot.com/-4GXsglWmQk4/TzAYv7BfUrI/AAAAAAAAVlc/WSMzCKVBmp8/s1600/tumblr_lwyzaafvrd1r85toqo1_500.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
 h1 {
     color: #51AAA5;
     font-weight: bold;
     font-family: 'Noto Serif', serif;
+}
+
+hr {
+    margin-bottom: 0px;
 }
 
 nav {
@@ -10,17 +22,24 @@ nav {
 
 figure img{
     float: left;
-    width: 300px;
+    width: 350px;
     padding-right: 15px;
+    margin-left: -13px;
     margin-top: 20px;
-    border: 1px solid white;
 }
 
-.clearfix::after {
-    content: " ";
-    display: block;
-    clear: both;
-  }
+img {
+    width: 350px;
+    padding-right: 10px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+#portfolio-gallery {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px
+}
 
 nav a.navbar-brand, button.btn{
     background-color: #51AAA5;
@@ -34,28 +53,14 @@ nav a.navbar-brand {
     font-weight: bold;
 }
 
-main .background-image{
-    z-index: -1;
-    position: relative;
-    background-image: url("https://storage.needpix.com/rsynced_images/optical-illusion-1301351_1280.jpg");
-    opacity: 10%;
-    position: absolute;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    height: 100%;
-    width: 100%;
-    padding-bottom: 0px;
-    margin-bottom: 0px;
-
-}
-
 form, section {
     background-color: white;
-    padding: 5%;
-    margin-top: 60px;
-    margin: 5%, 15%, 5%, 1%;  
+    margin-top: 80px;
+    margin-bottom: 100px;  
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
+
 
 .btn-xl {
     font-size: large;
@@ -77,7 +82,6 @@ form, section {
 }
 
 footer {
-    margin-top: 60px;
     width: 100%;
     position: fixed;
     bottom: 0;
@@ -85,7 +89,7 @@ footer {
 }
 
 footer.card-footer {
-    padding: 20px 0px 20px 0px;
+    padding: 10px 0px 10px 0px;
     background-color: #666666;
     border-top-width: 8px;
     border-top-style: solid;
