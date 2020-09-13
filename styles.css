@@ -22,17 +22,24 @@ nav {
 
 figure img{
     float: left;
-    width: 300px;
+    width: 350px;
     padding-right: 15px;
     margin-left: -13px;
     margin-top: 20px;
 }
 
-/* .clearfix::after {
-    content: " ";
-    display: block;
-    clear: both;
-} */
+img {
+    width: 350px;
+    padding-right: 10px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+#portfolio-gallery {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px
+}
 
 nav a.navbar-brand, button.btn{
     background-color: #51AAA5;
@@ -46,15 +53,11 @@ nav a.navbar-brand {
     font-weight: bold;
 }
 
-/* section div.row div.col {
-    padding-left: 20px;
-} */
-
 form, section {
     background-color: white;
     margin-top: 80px;
     margin-bottom: 100px;  
-    padding-top: 30px;
+    padding-top: 20px;
     padding-bottom: 20px;
 }
 
