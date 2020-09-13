@@ -8,9 +8,19 @@ nav {
     background-color: white !important;
 }
 
-/* .my-title {
-    font-family: 'Noto Serif', serif;
-} */
+figure img{
+    float: left;
+    width: 300px;
+    padding-right: 15px;
+    margin-top: 20px;
+    border: 1px solid white;
+}
+
+.clearfix::after {
+    content: " ";
+    display: block;
+    clear: both;
+  }
 
 nav a.navbar-brand, button.btn{
     background-color: #51AAA5;
@@ -40,9 +50,10 @@ main .background-image{
 
 }
 
-form {
+form, section {
     background-color: white;
     padding: 5%;
+    margin-top: 60px;
     margin: 5%, 15%, 5%, 1%;  
 }
 
@@ -63,10 +74,6 @@ form {
 
 .form-control {
     border-radius: 0 !important;
-}
-
-form {
-    margin-top: 60px;
 }
 
 footer {
