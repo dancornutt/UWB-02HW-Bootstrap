@@ -16,6 +16,10 @@ hr {
     margin-bottom: 0px;
 }
 
+ul {
+    list-style-type: circle;
+}
+
 nav {
     background-color: white !important;
 }
