@@ -47,10 +47,6 @@ Anyone is welcome to contribute! Reach out via github for collaboration.
 
 * **Dan Cornutt** - *Complete work*
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
 * Shout out to Metages Worku for finding the closest font family!
