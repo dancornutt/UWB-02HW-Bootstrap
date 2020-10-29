@@ -100,5 +100,10 @@ footer.card-footer {
     border-top-color: #51AAA5;
     text-align: center;
     margin-bottom: 0;
+}
 
+.portfolioProject {
+    text-align: center;
+    margin-bottom: 25px;
+   
 }
