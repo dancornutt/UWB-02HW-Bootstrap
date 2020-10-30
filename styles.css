@@ -6,7 +6,7 @@ body {
     background-position: center;
 }
 
-h1 {
+h1, .portfolioProject>h4 {
     color: #51AAA5;
     font-weight: bold;
     font-family: 'Noto Serif', serif;
