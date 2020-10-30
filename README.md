@@ -2,6 +2,7 @@
 
 This project is centered on creating a mobile first, responsive website. The basis was utilizing Bootsrap's grid system and components. After basic structure was met, the styling needed to loosely match the pictures in the following screen widths: 400px, 768px, and 992px.
 
+![Portfolio](https://github.com/dancornutt/UWB--2HW-Bootstrap/blob/master/resources/portfolio.png)
 ## Getting Started
 
 Luckily this is a static site so there isn't much set-up to do. You should have a decent understanding of html and css. Knowing Bootstrap would be very helpful.
