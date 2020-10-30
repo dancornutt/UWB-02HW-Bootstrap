@@ -30,7 +30,7 @@ No tests were constructed, in the future there will be custom javascript but at 
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+This portfolio is hosted via GitHub at [Portfolio](https://dancornutt.github.io/UWB-02HW-Bootstrap/)
 
 ## Built With
 
